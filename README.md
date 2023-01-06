@@ -85,7 +85,7 @@ You will be familar with
    --- On-demand self-service, 
    --- Resource pooling, 
    --- Rapid elasticity, 
--- Integrations between applications![image](https://user-images.githubusercontent.com/121136883/210907252-578e15f6-bc89-449c-99f7-73403996b1ce.png)
+-- Integrations between applications
    --- Monolithic application vs n-tier applications vs microservices
    --- Database integration vs RestAPI vs Event-driven architecture.
 
