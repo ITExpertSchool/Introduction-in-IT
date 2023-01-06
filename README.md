@@ -15,7 +15,7 @@ Be free to setup individual meetings with professionals: itexpertschoolru@gmail.
 
 Course for 2 weeks.
 
-## Introduction in course.
+## Introduction to the course.
 
 ### Russion https://youtu.be/GjDPbseQy1E
 ### English https://youtu.be/_StdQbuXPvg
@@ -57,54 +57,16 @@ Course for 2 weeks.
 ## 8. Introduction to Software design and architecture.
 
 You will be familar with 
-### -- Process to create software applications, 
-### -- functional and non-functional requirements and constraints, 
-### -- SLA, SLO, SLI, SMART, Availability, Reliability, Scalability, Vertical scaling, Horizontal scaling, Auto-scaling,
-### -- software architecture, 
-### -- types of sftware architecture,  
-### -- viewpoints and Architectural styles: 
-###    --- DDD (Domain Driven Design), 
-###    --- TDD (Test Driven Development),
-###    --- BDD (Behavior Driven Development), 
-### -- Architecture artifacts and Architecture patterns:
-###    --- OOD (Object Oriented Design), 
-###    --- SOLD, 
-###    --- GRASP,
-###    --- basic principles and the most common design patterns, 
-###    --- craftsmanship, 
-### -- Web development:
-###    --- FrontEnd, 
-###    --- BackEnd, 
-###    --- HTML, 
-###    --- CSS
-###    --- JavaScript, 
-###    --- code editor, 
-###    --- Version control, 
-###    --- Git, 
-###    --- Frameworks, 
-### -- Cloud computing:
-###    --- Data center, 
-###    --- On-demand self-service, 
-###    --- Resource pooling, 
-###    --- Rapid elasticity, 
-### -- Integrations between applications
-###    --- Monolithic application vs n-tier applications vs microservices
-###    --- Database integration vs RestAPI vs Event-driven architecture.
+### Process to create software applications, Functional and non-functional requirements and constraints, SLA, SLO, SLI, SMART, Availability, Reliability, Scalability, Vertical scaling, Horizontal scaling, Auto-scaling,
+### Software architecture (ypes of sftware architecture, viewpoints and Architectural styles: DDD (Domain Driven Design), TDD (Test Driven Development),BDD (Behavior Driven Development), architecture artifacts and Architecture patterns, OOD (Object Oriented Design), SOLD, GRASP,basic principles and the most common design patterns, craftsmanship, 
+### Web development:FrontEnd, BackEnd, HTML, CSS. JavaScript, code editor, Version control, Git, Frameworks, 
+### Cloud computing: Data center, On-demand self-service, Resource pooling, Rapid elasticity, 
+### Integrations between applications: Monolithic application vs n-tier applications vs microservices, shared Database integration vs RestAPI vs Event-driven architecture.
 
 ## 9. Introduction to Algorihms.
 
 You will be familar with terms: 
-### Definition of Algorithm, 
-### Functional / Not functional requirements, 
-### Components, 
-### Variable, 
-### Array, 
-### Input, Output, Process, 
-### Algorithm structure types, 
-### Linea algorithm, 
-### Branched algorithms, 
-### Cyclic algorithm, Sorting, 
-### Examples of algorithms.
+### Definition of Algorithm, Functional / Not functional requirements, Components, Variable, Array, Input, Output, Process, Algorithm structure types: Linea algorithm, Branched algorithms, Cyclic algorithm, Sorting, Examples of algorithms.
 At the end you will be able to create algorithms and understand the way how applications are created. 
 
 ### - Russian https://youtu.be/qNLqK8D8qUE
