@@ -53,16 +53,52 @@ You will work with Postman and Swagger, will start to create test scenarious, te
 7. Security in IT, SSL part 2.
 
 8. Introduction to Software design and architecture.
-You will be familar with Process to create software applications, functional and non-functional requirements and constraints, software architecture, types of sftware architecture, 
-viewpoints, Architectural styles, DDD (Domain Driven Design), TDD (Test Driven Development) and BDD (Behavior Driven Development), artifacts, Architecture patterns, OOD (Object Oriented Design)l, SOLD, GRASP, , basic principles, The most common design patterns, craftsmanship!, Web development, FrontEnd, BackEnd, HTML, CSS and JavaScript, code editor, Version control, Git, Frameworks, Cloud computing Data center, On-demand self-service, Resource pooling, Rapid elasticity!, SLA, SMART.
+
+You will be familar with 
+-- Process to create software applications, 
+-- functional and non-functional requirements and constraints, 
+-- SLA, SLO, SLI, SMART, Availability, Reliability, Scalability, Vertical scaling, Horizontal scaling, Auto-scaling,
+-- software architecture, 
+-- types of sftware architecture,  
+-- viewpoints and Architectural styles: 
+   --- DDD (Domain Driven Design), 
+   --- TDD (Test Driven Development),
+   --- BDD (Behavior Driven Development), 
+-- Architecture artifacts and Architecture patterns:
+   --- OOD (Object Oriented Design), 
+   --- SOLD, 
+   --- GRASP,
+   --- basic principles and the most common design patterns, 
+   --- craftsmanship, 
+-- Web development:
+   --- FrontEnd, 
+   --- BackEnd, 
+   --- HTML, 
+   --- CSS
+   --- JavaScript, 
+   --- code editor, 
+   --- Version control, 
+   --- Git, 
+   --- Frameworks, 
+-- Cloud computing:
+   --- Data center, 
+   --- On-demand self-service, 
+   --- Resource pooling, 
+   --- Rapid elasticity, 
+-- Integrations between applications![image](https://user-images.githubusercontent.com/121136883/210907252-578e15f6-bc89-449c-99f7-73403996b1ce.png)
+   --- Monolithic application vs n-tier applications vs microservices
+   --- Database integration vs RestAPI vs Event-driven architecture.
 
 9. Introduction to Algorihms.
+
 You will be familar with terms: Definition of Algorithm, Functional / Not functional requirements, Components, Variable, Array, Input, Output, Process, Algorithm structure types, Linea algorithm, Branched algorithms, Cyclic algorithm, Sorting, Examples of algorithms.
 At the end you will be able to create algorithms and understand the way how applications are created. 
 
+- Russian https://youtu.be/qNLqK8D8qUE
 
 
 10. Introduction to Databases.
+
 Database defenition, Table creation with MySQ, select, SQL databases, NOSQL databases, SQL, RDBMS, Columns, SQL statements, Important SQL commands, SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into, Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, BEnefits in NoSQL, Solr.
 
 HomeWork 1. Postman, Swagger, Rest API.
