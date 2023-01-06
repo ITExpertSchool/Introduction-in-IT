@@ -74,42 +74,13 @@ At the end you will be able to create algorithms and understand the way how appl
 
 ## 10. Introduction to Databases.
 
-### -- Database defenition, 
-### -- Table creation with MySQ, 
-### -- select, 
-### -- SQL databases, 
-### -- NOSQL databases, 
-### -- SQL, 
-### -- RDBMS, 
-### -- Columns, 
-### -- SQL statements, 
-###    --- Important SQL commands, 
-###    --- SELECT, 
-###    --- Distinct, 
-###    --- Count, 
-###    --- Where, 
-###    --- Operators in where, 
-###    --- Order by, 
-###    --- Insert into, 
-###    --- Null, 
-###    --- Update, 
-###    --- Delete, 
-###    --- Top, 
-###    --- Min, Max, Avg, Sum, 
-###    --- Like, In, Between, 
-###    --- Aliases, 
-###    --- Joins, Right join, Left Join, Inner Join, Union, 
-###    --- Group By, Haaving, 
-###    --- Exists,  
-###    --- Unique, Primary Key, Foreign Key,  
-### -- Date Types,  
-### -- Types of databases in NoSQL, 
-### -- Benefits in NoSQL, 
-### -- Solr.
+You will be familar with  
+### Database defenition, Table creation with MySQ,  SQL databases and NOSQL databases, SQL, RDBMS, SQL statements and Important SQL commands: SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into,  Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, Benefits in NoSQL, Solr.
 
-###    HomeWork 1. Postman, Swagger, Rest API.
-###    HomeWork 2. Algorithms.
-###    Homework 3. Databases. 
+##    HomeWork 
+### 1. Postman, Swagger, Rest API.
+### 2. Algorithms.
+### 3. Databases. 
 
 Additional indormation.
 
