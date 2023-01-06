@@ -54,7 +54,15 @@ Course for 2 weeks.
 
 ## 7. Security in IT, SSL part 2.
 
-## 8. Introduction to Software design and architecture.
+## 8. Introduction to Algorihms.
+
+You will be familar with terms: 
+### Definition of Algorithm, Functional / Not functional requirements, Components, Variable, Array, Input, Output, Process, Algorithm structure types: Linea algorithm, Branched algorithms, Cyclic algorithm, Sorting, Examples of algorithms.
+At the end you will be able to create algorithms and understand the way how applications are created. 
+
+### - Russian https://youtu.be/qNLqK8D8qUE
+
+## 9. Introduction to Software design and architecture.
 
 You will be familar with 
 ### Process to create software applications, Functional and non-functional requirements and constraints, SLA, SLO, SLI, SMART, Availability, Reliability, Scalability, Vertical scaling, Horizontal scaling, Auto-scaling,
@@ -63,13 +71,6 @@ You will be familar with
 ### Cloud computing: Data center, On-demand self-service, Resource pooling, Rapid elasticity, 
 ### Integrations between applications: Monolithic application vs n-tier applications vs microservices, shared Database integration vs RestAPI vs Event-driven architecture.
 
-## 9. Introduction to Algorihms.
-
-You will be familar with terms: 
-### Definition of Algorithm, Functional / Not functional requirements, Components, Variable, Array, Input, Output, Process, Algorithm structure types: Linea algorithm, Branched algorithms, Cyclic algorithm, Sorting, Examples of algorithms.
-At the end you will be able to create algorithms and understand the way how applications are created. 
-
-### - Russian https://youtu.be/qNLqK8D8qUE
 
 
 ## 10. Introduction to Databases.
