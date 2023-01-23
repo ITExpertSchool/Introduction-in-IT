@@ -51,10 +51,12 @@ Course for 2 weeks.
 ### You will work with Postman and Swagger, will start to create test scenarious, test cases. Additional materials - see is folder Introduction in IT in repository.
 
 ## 6. Security in IT, part 1.
-### You will know defenition of CyberSecurity, II Security, Natwork Security, DOS. 
-###  Russian. https://youtu.be/iR9QtSn7O24
+### You will know defenition of CyberSecurity, II Security, Natwork Security, DOS atacks. 
+###  Russian. https://youtu.be/97gTugZXKng
+
 
 ## 7. Security in IT, SSL part 2.
+### You will know encryption of data, SSL protocol, certificates. 
 
 ## 8. Introduction to Algorihms.
 
