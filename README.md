@@ -88,6 +88,49 @@ You will be familar with
 ### 2. Algorithms.
 ### 3. Databases. 
 
-Additional indormation.
+# Additional indormation.
+## Web developemnt 
+### What is JSON https://www.w3schools.com/whatis/whatis_json.asp
+### What is HTTP? https://www.w3schools.com/whatis/whatis_http.asp
+### What is HTML? https://www.w3schools.com/whatis/whatis_html.asp
+### What is CSS https://www.w3schools.com/whatis/whatis_css.asp
+### What is Responsive Web Design? https://www.w3schools.com/whatis/whatis_responsive.asp
+### What is JavaScript? https://www.w3schools.com/whatis/whatis_js.asp
+### Rest ALI: What is Google Maps? https://www.w3schools.com/whatis/whatis_google_maps.asp
+### What is GitHub?  https://www.w3schools.com/whatis/whatis_github.asp
+### What is a Front-End Developer? https://www.w3schools.com/whatis/whatis_frontenddev.asp
+### What is Full Stack? https://www.w3schools.com/whatis/whatis_fullstack.asp
+### What is Full stack JavaScript? https://www.w3schools.com/whatis/whatis_fullstack_js.asp
+### Code snippets for HTML, CSS and JavaScript. https://www.w3schools.com/howto/default.asp
 
-How to find an job for IT professionals in the USA Russian. https://youtu.be/Q0SsYRr3Ftk
+## Cloud, AWS
+### What is Amazon EC2? https://www.w3schools.com/whatis/whatis_aws_ec2.asp
+### What is AWS RDS? https://www.w3schools.com/whatis/whatis_aws_rds.asp
+### What is Amazon CloudFront? https://www.w3schools.com/whatis/whatis_aws_cloudfront.asp
+### What is Amazon SNS? https://www.w3schools.com/whatis/whatis_aws_cloudfront.asp 
+### What is AWS Auto Scaling? https://www.w3schools.com/whatis/whatis_aws_auto_scaling.asp
+### What is AWS IAM?  https://www.w3schools.com/whatis/whatis_aws_iam.asp
+### What is Amazon Aurora? https://www.w3schools.com/whatis/whatis_aws_aurora.asp
+### What is Amazon DynamoDB? https://www.w3schools.com/whatis/whatis_aws_dynamodb.asp
+
+##Architecture
+### Types of Computer Architecture https://www.w3schools.in/computer-fundamentals/types-of-computer-architecture
+### Web Architecture https://www.w3.org/standards/webarch/
+### MVC architecture patterns https://www.w3schools.in/mvc-architecture
+### Types of Network Protocols and Their Uses  https://www.w3schools.in/types-of-network-protocols-and-their-uses
+### What is MVC Architecture? https://www.w3schools.in/mvc-architecture
+### What is three-tier architecture? https://www.ibm.com/topics/three-tier-architecture
+### Event-driven architecture style https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
+### Event-driven vs REST API interactions https://blog.axway.com/learning-center/apis/api-streaming/event-driven-vs-rest-api-interactions
+### Event-Driven vs Request-Driven (RESTful) Architecture in Microservices https://www.techtalksbyanvita.com/post/event-driven-vs-request-driven-rest-architecture
+### The Value at the Intersection of TDD, DDD, and BDD https://medium.datadriveninvestor.com/the-value-at-the-intersection-of-tdd-ddd-and-bdd-da58ea1f3ac8
+
+## Database
+### What is SQL - tutorial https://www.w3schools.com/whatis/whatis_sql.asp
+### SQL tutorial https://www.w3schools.com/SQL/default.asp
+### SQL VS. NOSQL: WHAT’S THE DIFFERENCE? https://builtin.com/data-science/sql-vs-nosql
+
+## Other
+### How to find an job for IT professionals in the USA Russian. https://youtu.be/Q0SsYRr3Ftk
+
+
