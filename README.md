@@ -76,12 +76,16 @@ You will be familar with
 ### Cloud computing: Data center, On-demand self-service, Resource pooling, Rapid elasticity, 
 ### Integrations between applications: Monolithic application vs n-tier applications vs microservices, shared Database integration vs RestAPI vs Event-driven architecture.
 
-
+### Russian https://youtu.be/ReUkCgxjYm0
 
 ## 10. Introduction to Databases.
 
 You will be familar with  
 ### Database defenition, Table creation with MySQ,  SQL databases and NOSQL databases, SQL, RDBMS, SQL statements and Important SQL commands: SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into,  Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, Benefits in NoSQL, Solr.
+
+## 11. Introduction to Cloud.
+### Will familar with basic Cloud terms: Compute, Region, Availability Zone, S3, Cloud Front.
+### Russian. 
 
 ##    HomeWork 
 ### 1. Postman, Swagger, Rest API.
@@ -114,6 +118,7 @@ You will be familar with
 ### What is Amazon DynamoDB? https://www.w3schools.com/whatis/whatis_aws_dynamodb.asp
 
 ##Architecture
+## OSI Model https://www.imperva.com/learn/application-security/osi-model/
 ### Types of Computer Architecture https://www.w3schools.in/computer-fundamentals/types-of-computer-architecture
 ### Web Architecture https://www.w3.org/standards/webarch/
 ### MVC architecture patterns https://www.w3schools.in/mvc-architecture
