@@ -57,6 +57,7 @@ Course for 2 weeks.
 
 ## 7. Security in IT, SSL part 2.
 ### You will know encryption of data, SSL protocol, certificates. 
+###  Russian. https://youtu.be/bWBAkoXrpQw
 
 ## 8. Introduction to Algorihms.
 
