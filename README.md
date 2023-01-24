@@ -20,6 +20,8 @@ Course for 2 weeks.
 ### Russian https://youtu.be/GjDPbseQy1E
 ### English https://youtu.be/_StdQbuXPvg
 
+As a part of QA course please think about the materials from QA Prospective. In first 1-1 with us you will get an access to the tracking system where you will need to create test cases and test materials for this course. In next section related to real testing we will discuss about it. 
+
 
 ## 1. Basic about IT and Computers
 
