@@ -96,7 +96,7 @@ You will be familar with
 ### 3. Databases. 
 
 # Additional indormation.
-## Web developemnt 
+## Web development 
 ### What is JSON https://www.w3schools.com/whatis/whatis_json.asp
 ### What is HTTP? https://www.w3schools.com/whatis/whatis_http.asp
 ### What is HTML? https://www.w3schools.com/whatis/whatis_html.asp
