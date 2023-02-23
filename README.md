@@ -52,6 +52,8 @@ As a part of QA course please think about the materials from QA Prospective. In 
 
 ### You will work with Postman and Swagger, and will start to create test scenarios, test cases. Additional materials - see is folder Introduction in IT in repository.
 
+###  Russian. https://youtu.be/stAZ1ck3rDE
+
 ## 6. Security in IT, part 1.
 ### You will know definition of CyberSecurity, II Security, Network Security, DOS attacks. 
 ###  Russian. https://youtu.be/97gTugZXKng
