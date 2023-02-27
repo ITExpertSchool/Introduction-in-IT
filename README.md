@@ -36,34 +36,30 @@ As a part of QA course please think about the materials from QA Prospective. In 
 ### Russian. https://youtu.be/vluTpGE-8KU
 ### English. https://youtu.be/B6II0NM3EAQ
 
-## 3. Introduction in Internet.
-
-### Russian. https://youtu.be/XoilKImpU7Q
-### English. https://youtu.be/YkrSBWklrlg
-
-## 4. Introduction in Internet. What happens when you input URL into browser and push Enter button?
+## 3. Introduction in Internet. hat happens when you input URL into browser and push Enter button?
 
 ### You will be familiar with terms: DNS, URL, RESTful, API, REST API, HTTP, HTTPS, HTTP requests, HTTP methods, HTTP response, HTTP status code, HTTP header, HTTP body, Response codes, DNS lookup, Domain name, JSON, Cache, CDN, Recursive server, Authoritative nameservers, DNS record , Root servers, TCP, TCP handshake, OSI, HTML, CSS, JavaScript.
 
-###  Russian. https://youtu.be/hfF9Sws_gfE
-###  English. 
 
-## 5. Practice. Introduction in IT. Part 1.
+### Russian. https://youtu.be/P4UCWiEKx9M
+### English. https://youtu.be/YkrSBWklrlg
+
+## 4. Practice. Introduction in IT. Part 1.
 
 ### You will work with Postman and Swagger, and will start to create test scenarios, test cases. Additional materials - see is folder Introduction in IT in repository.
 
 ###  Russian. https://youtu.be/stAZ1ck3rDE
 
-## 6. Security in IT, part 1.
+## 5. Security in IT, part 1.
 ### You will know definition of CyberSecurity, II Security, Network Security, DOS attacks. 
 ###  Russian. https://youtu.be/97gTugZXKng
 
 
-## 7. Security in IT, SSL part 2.
+## 6. Security in IT, SSL part 2.
 ### You will know encryption of data, SSL protocol, certificates. 
 ###  Russian. https://youtu.be/bWBAkoXrpQw
 
-## 8. Introduction to Algorithms.
+## 7. Introduction to Algorithms.
 
 You will be familiar with terms: 
 ### Definition of Algorithm, Functional / Not functional requirements, Components, Variable, Array, Input, Output, Process, Algorithm structure types: Linear algorithm, Branched algorithms, Cyclic algorithm, Sorting, Examples of algorithms.
@@ -71,7 +67,7 @@ At the end you will be able to create algorithms and understand the way how appl
 
 ### - Russian https://youtu.be/qNLqK8D8qUE
 
-## 9. Introduction to Software design and architecture.
+## 8. Introduction to Software design and architecture.
 
 You will be familiar with 
 ### Process to create software applications, Functional and non-functional requirements and constraints, SLA, SLO, SLI, SMART, Availability, Reliability, Scalability, Vertical scaling, Horizontal scaling, Auto-scaling
@@ -82,7 +78,7 @@ You will be familiar with
 
 ### Russian https://youtu.be/ReUkCgxjYm0
 
-## 10. Introduction to Databases.
+## 9. Introduction to Databases.
 
 You will be familar with  
 ### Database defenition, Table creation with MySQ,  SQL databases and NOSQL databases, SQL, RDBMS, SQL statements and Important SQL commands: SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into,  Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, Benefits in NoSQL, Solr.
@@ -90,7 +86,7 @@ You will be familar with
 ### Part 2, Russian https://youtu.be/7rTMedkXCTo
 
 
-## 11. Introduction to Cloud.
+## 10. Introduction to Cloud.
 ### Will familar with basic Cloud terms: Compute, Region, Availability Zone, S3, Cloud Front.
 ### Russian https://youtu.be/pVMgXMbWNrY
 
