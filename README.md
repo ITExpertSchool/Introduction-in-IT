@@ -87,7 +87,7 @@ Input values: Output values:
 
 
 ## 5. Security in IT, part 1.
-### You will know definition of CyberSecurity, II Security, Network Security, DOS attacks. 
+### You will know definition of CyberSecurity, IT Security, Network Security, DOS attacks. 
 ###  Russian. https://youtu.be/97gTugZXKng
 
 
