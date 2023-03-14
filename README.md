@@ -50,6 +50,42 @@ As a part of QA course please think about the materials from QA Prospective. In 
 
 ###  Russian. https://youtu.be/stAZ1ck3rDE
 
+1.  Validate Rest API calls by using Postman tool and Browser (Chrome - recommended).
+1.1. Download Postman application from internet and install in your computer
+1.2. Create a new request in Postman  (GET request for URL:  https://http.dog/200.jpg) 
+1.3. Check other URLS:
+- https://api.coindesk.com/v1/bpi/currentprice.json
+- https://catfact.ninja/fact
+- https://www.boredapi.com/api/activity
+- Change parameter for your First name:
+https://api.genderize.io?name=luc
+1.4. Check the same URLs in Browser (Keep in mind - Browser uses GET method always)
+1.5. Check request by using Developer tools in the Browser - request, response, Header, Body. 
+
+2. Validate REST API-s with Swagger - tool created by developers as a part of REST API development.
+2.1. Go to https://petstore3.swagger.io in your browser
+2.2. Authorize yourself with credentials: user:test, password: abs123
+2.3. Create user by using Post /user - Create user
+2.4. Get information about this user by using Get /user/{username} - get user by username end point (as a parameter add just created user name) 
+2.5. Update information about this user by using PUT method (play with different parameters and check how the system updated it by using Get user information end point) 
+2.6. Delete created by you user 
+2.7. Validate that user was deleted.
+
+3. Think like QA for the ticket.
+Ticket:
+Create functionality for “Operations about user” information about user, update the information, Delete the information about the user and get information about user. Response should be in XML format, Request body – Json format.
+How will you test it?
+Developer provided you the link to the Swagger (see step 2) and asked to test it.
+You need to think about test case scenarios and test cases for these scenarios.
+Example:
+- Check USER creation Functionality - Check Login Functionality
+Please write test cases like this: for each scenarios you created:
+* Test Case 1: Check results on entering valid User Id & Password
+Input values: Output values:
+* Test Case 2: Check results on entering Invalid User ID & Password
+* Test Case 3: Check response when a User ID is Empty & Login Button is pressed, and many more
+
+
 ## 5. Security in IT, part 1.
 ### You will know definition of CyberSecurity, II Security, Network Security, DOS attacks. 
 ###  Russian. https://youtu.be/97gTugZXKng
