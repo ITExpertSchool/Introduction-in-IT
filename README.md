@@ -36,7 +36,7 @@ As a part of QA course please think about the materials from QA Prospective. In 
 ### Russian. https://youtu.be/vluTpGE-8KU
 ### English. https://youtu.be/B6II0NM3EAQ
 
-## 3. Introduction in Internet. hat happens when you input URL into browser and push Enter button?
+## 3. Introduction in Internet. What happens when you input URL into browser and push Enter button?
 
 ### You will be familiar with terms: DNS, URL, RESTful, API, REST API, HTTP, HTTPS, HTTP requests, HTTP methods, HTTP response, HTTP status code, HTTP header, HTTP body, Response codes, DNS lookup, Domain name, JSON, Cache, CDN, Recursive server, Authoritative nameservers, DNS record , Root servers, TCP, TCP handshake, OSI, HTML, CSS, JavaScript.
 
