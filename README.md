@@ -117,7 +117,7 @@ You will be familiar with
 ## 9. Introduction to Databases.
 
 You will be familar with  
-### Database defenition, Table creation with MySQ,  SQL databases and NOSQL databases, SQL, RDBMS, SQL statements and Important SQL commands: SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into,  Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, Benefits in NoSQL, Solr.
+### Database definition, Table creation with MySQ,  SQL databases and NOSQL databases, SQL, RDBMS, SQL statements and Important SQL commands: SELECT, Distinct, Count, Where, Operators in where, Order by, Insert into,  Null, Update, Delete, Top, Min, Max, Avg, Sum, Like, In, Between, Aliases, Joins, Right join, Left Join, Inner Join, Union, Group By, Haaving, Exists,  Unique, Primary Key, Foreign Key,  Date Types,  Types of databases in NoSQL, Benefits in NoSQL, Solr.
 ### Part 1, Russian https://youtu.be/pQWzCP-V6PE
 ### Part 2, Russian https://youtu.be/7rTMedkXCTo
 
